@@ -33,5 +33,5 @@ jobs:
           SAFETY_API_KEY: ${{ secrets.SAFETY_API_KEY }}
         run: |
           pip install safety
-          safety check --full-report --severity high
+          safety scan -r requirements.txt --full-report
 
