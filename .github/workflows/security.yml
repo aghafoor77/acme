@@ -1,0 +1,37 @@
+name: Security Checks (SCA + Bandit)
+
+# Trigger on every push or pull request
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  security:
+    name: Run SCA and Security Checks
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1 Checkout code
+      - uses: actions/checkout@v4
+
+      # 2 Setup Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # 3 Install dependencies
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      # 4 Run Safety (SCA) using API key
+      - name: Run Safety (SCA)
+        env:
+          SAFETY_API_KEY: ${{ secrets.SAFETY_API_KEY }}
+        run: |
+          pip install safety
+          safety check --full-report --severity high
+
