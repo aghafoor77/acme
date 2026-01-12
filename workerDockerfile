@@ -1,0 +1,17 @@
+# Use the full official Python image
+FROM python:3.12
+
+# Set the working directory inside the container
+RUN mkdir microsecai
+
+COPY . /microsecai
+COPY ./microsecairunner.sh /microsecai/app 
+
+WORKDIR /microsecai
+RUN pip install openai
+# Install dependencies if you have a requirements.txt (optional)
+RUN pip install --no-cache-dir -r requirements.txt
+RUN pip install --upgrade hypothesis
+WORKDIR /microsecai
+
+CMD ./carry_worker.sh

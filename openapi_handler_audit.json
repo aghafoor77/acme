@@ -1,0 +1,57 @@
+{'timestamp': '2025-11-26T14:13:34.618279', 'level': 'INFO', 'user': 'system', 'action': 'initialize', 'details': 'Initialized OpenAPIHandler for file /home/chaincode/Desktop/acmeimp/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T14:13:34.622146', 'level': 'INFO', 'user': 'system', 'action': 'load_file', 'details': 'File not found: /home/chaincode/Desktop/acmeimp/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T14:14:25.308220', 'level': 'INFO', 'user': 'system', 'action': 'initialize', 'details': 'Initialized OpenAPIHandler for file /home/chaincode/Desktop/acmeimp/microsecai/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T14:14:25.486447', 'level': 'INFO', 'user': 'system', 'action': 'load_file', 'details': 'Successfully loaded OpenAPI file: /home/chaincode/Desktop/acmeimp/microsecai/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T14:14:25.661923', 'level': 'INFO', 'user': 'system', 'action': 'validate_file', 'details': 'OpenAPI file validation successful'}
+{'timestamp': '2025-11-26T14:14:25.662936', 'level': 'INFO', 'user': 'system', 'action': 'parse_file', 'details': 'Parsed 7 endpoints'}
+{'timestamp': '2025-11-26T14:14:25.663241', 'level': 'INFO', 'user': 'system', 'action': 'access_endpoints', 'details': 'Accessed 7 endpoints'}
+{'timestamp': '2025-11-26T15:13:25.215603', 'level': 'INFO', 'user': 'system', 'action': 'initialize', 'details': 'Initialized OpenAPIHandler for file /home/chaincode/Desktop/acmeimp/microsecai/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T15:13:25.475903', 'level': 'INFO', 'user': 'system', 'action': 'load_file', 'details': 'Successfully loaded OpenAPI file: /home/chaincode/Desktop/acmeimp/microsecai/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T15:13:25.673923', 'level': 'INFO', 'user': 'system', 'action': 'validate_file', 'details': 'OpenAPI file validation successful'}
+{'timestamp': '2025-11-26T15:13:25.680129', 'level': 'INFO', 'user': 'system', 'action': 'parse_file', 'details': 'Parsed 7 endpoints'}
+{'timestamp': '2025-11-26T15:13:25.683083', 'level': 'INFO', 'user': 'system', 'action': 'access_endpoints', 'details': 'Accessed 7 endpoints'}
+{'timestamp': '2025-11-26T15:14:33.432233', 'level': 'INFO', 'user': 'system', 'action': 'initialize', 'details': 'Initialized OpenAPIHandler for file /home/chaincode/Desktop/acmeimp/microsecai/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T15:14:33.611292', 'level': 'INFO', 'user': 'system', 'action': 'load_file', 'details': 'Successfully loaded OpenAPI file: /home/chaincode/Desktop/acmeimp/microsecai/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T15:14:33.849224', 'level': 'INFO', 'user': 'system', 'action': 'validate_file', 'details': 'OpenAPI file validation successful'}
+{'timestamp': '2025-11-26T15:14:33.860887', 'level': 'INFO', 'user': 'system', 'action': 'parse_file', 'details': 'Parsed 7 endpoints'}
+{'timestamp': '2025-11-26T15:14:33.864489', 'level': 'INFO', 'user': 'system', 'action': 'access_endpoints', 'details': 'Accessed 7 endpoints'}
+{'timestamp': '2025-11-26T15:15:04.737975', 'level': 'INFO', 'user': 'system', 'action': 'initialize', 'details': 'Initialized OpenAPIHandler for file /home/chaincode/Desktop/acmeimp/microsecai/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T15:15:05.366937', 'level': 'INFO', 'user': 'system', 'action': 'load_file', 'details': 'Successfully loaded OpenAPI file: /home/chaincode/Desktop/acmeimp/microsecai/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T15:15:05.883904', 'level': 'INFO', 'user': 'system', 'action': 'validate_file', 'details': 'OpenAPI file validation successful'}
+{'timestamp': '2025-11-26T15:15:05.886945', 'level': 'INFO', 'user': 'system', 'action': 'parse_file', 'details': 'Parsed 7 endpoints'}
+{'timestamp': '2025-11-26T15:15:05.887924', 'level': 'INFO', 'user': 'system', 'action': 'access_endpoints', 'details': 'Accessed 7 endpoints'}
+{'timestamp': '2025-11-26T15:16:09.909131', 'level': 'INFO', 'user': 'system', 'action': 'initialize', 'details': 'Initialized OpenAPIHandler for file /home/chaincode/Desktop/acmeimp/microsecai/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T15:16:10.492150', 'level': 'INFO', 'user': 'system', 'action': 'load_file', 'details': 'Successfully loaded OpenAPI file: /home/chaincode/Desktop/acmeimp/microsecai/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T15:16:10.934363', 'level': 'INFO', 'user': 'system', 'action': 'validate_file', 'details': 'OpenAPI file validation successful'}
+{'timestamp': '2025-11-26T15:16:10.936234', 'level': 'INFO', 'user': 'system', 'action': 'parse_file', 'details': 'Parsed 7 endpoints'}
+{'timestamp': '2025-11-26T15:16:10.936955', 'level': 'INFO', 'user': 'system', 'action': 'access_endpoints', 'details': 'Accessed 7 endpoints'}
+{'timestamp': '2025-11-26T15:31:48.405232', 'level': 'INFO', 'user': 'system', 'action': 'initialize', 'details': 'Initialized OpenAPIHandler for file /home/chaincode/Desktop/acmeimp/microsecai/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T15:31:49.053069', 'level': 'INFO', 'user': 'system', 'action': 'load_file', 'details': 'Successfully loaded OpenAPI file: /home/chaincode/Desktop/acmeimp/microsecai/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T15:31:49.508427', 'level': 'INFO', 'user': 'system', 'action': 'validate_file', 'details': 'OpenAPI file validation successful'}
+{'timestamp': '2025-11-26T15:31:49.510314', 'level': 'INFO', 'user': 'system', 'action': 'parse_file', 'details': 'Parsed 7 endpoints'}
+{'timestamp': '2025-11-26T15:31:49.511976', 'level': 'INFO', 'user': 'system', 'action': 'access_endpoints', 'details': 'Accessed 7 endpoints'}
+{'timestamp': '2025-11-26T15:42:20.918279', 'level': 'INFO', 'user': 'system', 'action': 'initialize', 'details': 'Initialized OpenAPIHandler for file /home/chaincode/Desktop/acmeimp/microsecai/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T15:42:21.594294', 'level': 'INFO', 'user': 'system', 'action': 'load_file', 'details': 'Successfully loaded OpenAPI file: /home/chaincode/Desktop/acmeimp/microsecai/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T15:42:22.108994', 'level': 'INFO', 'user': 'system', 'action': 'validate_file', 'details': 'OpenAPI file validation successful'}
+{'timestamp': '2025-11-26T15:42:22.110989', 'level': 'INFO', 'user': 'system', 'action': 'parse_file', 'details': 'Parsed 7 endpoints'}
+{'timestamp': '2025-11-26T15:42:22.111487', 'level': 'INFO', 'user': 'system', 'action': 'access_endpoints', 'details': 'Accessed 7 endpoints'}
+{'timestamp': '2025-11-26T15:53:45.938185', 'level': 'INFO', 'user': 'system', 'action': 'initialize', 'details': 'Initialized OpenAPIHandler for file /home/chaincode/Desktop/acmeimp/microsecai/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T15:53:46.600560', 'level': 'INFO', 'user': 'system', 'action': 'load_file', 'details': 'Successfully loaded OpenAPI file: /home/chaincode/Desktop/acmeimp/microsecai/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T15:53:47.088213', 'level': 'INFO', 'user': 'system', 'action': 'validate_file', 'details': 'OpenAPI file validation successful'}
+{'timestamp': '2025-11-26T15:53:47.090058', 'level': 'INFO', 'user': 'system', 'action': 'parse_file', 'details': 'Parsed 7 endpoints'}
+{'timestamp': '2025-11-26T15:53:47.090512', 'level': 'INFO', 'user': 'system', 'action': 'access_endpoints', 'details': 'Accessed 7 endpoints'}
+{'timestamp': '2025-11-26T16:11:44.981566', 'level': 'INFO', 'user': 'system', 'action': 'initialize', 'details': 'Initialized OpenAPIHandler for file /home/chaincode/Desktop/acmeimp/microsecai/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T16:11:45.188310', 'level': 'INFO', 'user': 'system', 'action': 'load_file', 'details': 'Successfully loaded OpenAPI file: /home/chaincode/Desktop/acmeimp/microsecai/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T16:11:45.421148', 'level': 'INFO', 'user': 'system', 'action': 'validate_file', 'details': 'OpenAPI file validation successful'}
+{'timestamp': '2025-11-26T16:11:45.426885', 'level': 'INFO', 'user': 'system', 'action': 'parse_file', 'details': 'Parsed 7 endpoints'}
+{'timestamp': '2025-11-26T16:11:45.429930', 'level': 'INFO', 'user': 'system', 'action': 'access_endpoints', 'details': 'Accessed 7 endpoints'}
+{'timestamp': '2025-11-26T16:13:30.793025', 'level': 'INFO', 'user': 'system', 'action': 'initialize', 'details': 'Initialized OpenAPIHandler for file /home/chaincode/Desktop/acmeimp/microsecai/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T16:13:31.488493', 'level': 'INFO', 'user': 'system', 'action': 'load_file', 'details': 'Successfully loaded OpenAPI file: /home/chaincode/Desktop/acmeimp/microsecai/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T16:13:32.155378', 'level': 'INFO', 'user': 'system', 'action': 'validate_file', 'details': 'OpenAPI file validation successful'}
+{'timestamp': '2025-11-26T16:13:32.157239', 'level': 'INFO', 'user': 'system', 'action': 'parse_file', 'details': 'Parsed 7 endpoints'}
+{'timestamp': '2025-11-26T16:13:32.157907', 'level': 'INFO', 'user': 'system', 'action': 'access_endpoints', 'details': 'Accessed 7 endpoints'}
+{'timestamp': '2025-11-26T16:14:36.227932', 'level': 'INFO', 'user': 'system', 'action': 'initialize', 'details': 'Initialized OpenAPIHandler for file /home/chaincode/Desktop/acmeimp/microsecai/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T16:14:36.888307', 'level': 'INFO', 'user': 'system', 'action': 'load_file', 'details': 'Successfully loaded OpenAPI file: /home/chaincode/Desktop/acmeimp/microsecai/input/updatemedicalreport.yaml'}
+{'timestamp': '2025-11-26T16:14:37.390623', 'level': 'INFO', 'user': 'system', 'action': 'validate_file', 'details': 'OpenAPI file validation successful'}
+{'timestamp': '2025-11-26T16:14:37.392489', 'level': 'INFO', 'user': 'system', 'action': 'parse_file', 'details': 'Parsed 7 endpoints'}
+{'timestamp': '2025-11-26T16:14:37.393207', 'level': 'INFO', 'user': 'system', 'action': 'access_endpoints', 'details': 'Accessed 7 endpoints'}

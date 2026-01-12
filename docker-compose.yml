@@ -1,0 +1,15 @@
+
+services:
+  microsecai:
+    build: .
+    env_file:
+      - .env
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+
+  redis:
+    image: redis
+    container_name: redis_container
+    ports:
+      - "6379:6379"
