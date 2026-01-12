@@ -1,4 +1,4 @@
-name: Security Checks (SCA + Bandit)
+name: Security Checks (SCA)
 
 # Trigger on every push or pull request
 on:

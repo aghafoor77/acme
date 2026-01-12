@@ -4,7 +4,7 @@ flask==3.1.2
 celery==5.6.2
 redis==7.1.0
 faker~=23.0.0  # or leave unpinned to get latest
-hypothesis==6.138.2
+hypothesis
 openapi-spec-validator~=0.7.2
 python-dotenv~=1.1.1
 Flask-Cors==6.0.2
